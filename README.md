@@ -1,7 +1,7 @@
 # Pipeliam-Maya
 A pipeline built in Maya for optimisation performance
 
-Built with python 3.12- PySide and QT Designer
+Built with python 3.12- PySide2 and QT Designer
 
 
 USING OF THE PIPELIAM Alpha v0.1 : 
